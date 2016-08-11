@@ -1,0 +1,3 @@
+rootProject.name = 'Bai10ComponentPhan1'
+
+include ':app'
